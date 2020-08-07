@@ -1,5 +1,5 @@
-Projecto para probar el servidor de NodeJS
+Projecto para probar el servidor de NodeJS.
 
-Realizo diferentes peticiones y autentico con un token algunas de ellas
+Realizo diferentes peticiones y autorizo su acceso con un token.
 
-A través de middlewares autentifico si es administrador o no para que tenga acceso a los distintos endpoints
+A través de middlewares también autentifico si quien desea el acceso es o no administrador.
