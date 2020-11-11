@@ -1,4 +1,4 @@
-Projecto para probar el servidor de NodeJS.
+Proyecto con NodeJS, haciendo uso de la librería de Express, body-parser y jsonwebtoken.
 
 Realizo diferentes peticiones y autorizo su acceso con un token.
 
